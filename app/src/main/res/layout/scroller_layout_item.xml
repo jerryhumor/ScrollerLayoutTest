@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hdu.hanjianhao.scrollerlayouttest.ScrollerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp">
+
+    <Button
+        android:id="@+id/first_btn"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="FIRST"/>
+
+    <Button
+        android:id="@+id/second_btn"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="SECOND"/>
+
+    <Button
+        android:id="@+id/third_btn"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="THIRD"/>
+
+</com.hdu.hanjianhao.scrollerlayouttest.ScrollerLayout>
